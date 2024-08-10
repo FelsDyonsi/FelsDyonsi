@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FelsDyonsi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML,JS,CSS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...( --programing i think :D-- )
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on C# projects and games
 - 📫 How to reach me ...
 
 <!---
